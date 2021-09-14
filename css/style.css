@@ -176,7 +176,7 @@ li{
     max-width: 60rem;
 }
 .carousel-caption button{
-    background: #82589F;
+    background: #ac150a;
     color: #fff;
 }
 .second_row button{
@@ -287,11 +287,6 @@ li{
     height: 30rem;
 }
 
-/* .card_container{
-    position: relative;
-    cursor: pointer;
-    margin-bottom: 1rem;
-} */
 .card_container .image{
     height: 15rem;
     width: 15rem;
